@@ -1,0 +1,68 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>animal blog site</title>
+        <style>
+            body{background-color: rgb(157, 217, 243);}
+            h1 {color: rgb(255, 255, 255);}
+            h2 {color: rgb(255, 255, 255);}
+            h3 {color: rgb(255,255,255)}
+            p{color: rgb(100,100,100)}
+            ul{color: rgb(100,100,100)}
+            </style>
+    </head>
+    <body>
+
+    <h1 id="hedgehogs">All About Hedgehogs!</h1>
+    
+    <p>Curious? Look Ahead:
+        <a href="?">Habitat</a>,
+        <a href="?">Diet</a>,
+        <a href="?">Routines/Habits</a>,
+        <a href="?">Taking Care of a Hedgehog</a>
+    </p>
+    <p>Hedgehogs are well recognized for having prickly spines on their belly, legs, and faces but not on their faces. These little animals depend on their spines to keep them safe at night and from predators. They curl up into a tight ball with their heads, tails, and legs to protect delicate parts of their body.</p>
+    <p> <img src="https://i.ytimg.com/vi/q625P-DBRd4/hqdefault.jpg" width= 500 length= 500 </img>
+    <p>There are 17 different types of hedgehogs and they can be found throughout parts of Europe, Asia, and Africa, and in New Zealand.  Unfortunately, a few states have made it illegal for people to own a hedgehog. These five states are: California, Georgia, Hawaii, Pennsylvania, and The Five Boroughs of New York City.<p>
+    
+    
+    <h2 id="habitat"> Habitat</h2>
+    
+    <p>According to National Geographic, hedgehogs can be found throughout Europe, Asia, Africa, and New Zealand. They may survive in a variety of environments, such as suburban gardens, savannas, woodlands, deserts, and scrublands.  Typically, hedgehogs live in self-built burrows and nests. The San Diego Zoo states that hedgehogs may dig holes as deep as 20 inches (50 cm), and they use leaves, branches, and other plants to build their nests. Hedgehogs sometimes nest between rocks or occupy burrows abandoned by other animals.
+        <p> <img src="https://hips.hearstapps.com/hmg-prod/images/european-hedgehog-in-tree-hollow-st-high-res-stock-photography-121761164-1564997907.jpg?crop=0.552xw:0.829xh;0.235xw,0&resize=980:*" width=350 length=350 </img>
+    <h2 id="diet">Diet</h2>
+    
+    <p>Being omnivores, hedgehogs consume a variety of foods. Their main source of food is insects and other bugs. The most important insects/bugs in their diet are:
+<p><ul><li>Worms
+    <li>Slugs
+        <li>Caterpillars
+            <li>Beetles
+                <li> Millipedes
+                    <li>Earwigs </ul>
+    <p>They also consume a vast variety of other insects in addition to these. They will also occasionally feed on carrion, frogs, small rodents, infant birds, bird eggs, and fruit that has fallen off trees.
+        <p>If you are interested in helping to feed any wild hedgehogs around you, you can mimic a hedgehog's natural diet by offering any mix of dog and cat food with meat, hedgehog food, or cat biscuits when you put out food for them. 
+            <p>
+    
+
+    <h2 id="Routines/Habits"> Routines/Habits</h2>
+<p> <img src="https://i.pinimg.com/originals/f7/cc/bf/f7ccbf3f92de3923f703831ecd2d95b0.jpg" width=350 length=350 <br>
+    <p> According to Animal Planet, hedgehogs are lonesome animals that sleep a lot—up to eighteen hours a day. In addition, they are <strong>nocturnal</strong>, meaning they sleep during the day. Because of this, they might not be the best option for someone looking for an active pet during the day. 
+    While these nocturnal animals are awake at night, they hunt for food. Due to their poor vision, hedgehogs rely on their sense of smell and hearing to locate food. 
+    <p>In addition to providing themselves with rest, they use sleep as a defense against harsh weather. In colder regions, hedgehogs hibernate, whereas in desert regions, they slumber during hot and dry spells. Aestivation is the term for this process of sleeping during heat waves and dry spells. Hedgehogs are busy and follow regular sleep cycles in regions without harsh weather, according to National Geographic.
+        <h2 id="Taking care of a Hedgehog"> Taking Care of a Hedgehog</h2>
+        <p>Here are some things you should know beforehand if you want to get a hedgehog as a pet so that you're able to provide it with the best care possible.
+            <p> <img src="https://www.rd.com/wp-content/uploads/2021/04/GettyImages-1053735888-scaled.jpg" width=450 length=450 </img>
+            <h3> Hedgehog's inside Environment</h3>
+            <p>Hedgehogs do well in large terrariums or guinea pig cages with solid bottoms.  They should have a spacious cage because they like to explore, and a larger cage also has greater ventilation.  Hedgehogs should only be kept in cages with solid bottoms; wire bottom cages run the risk of tying their legs up or tearing off toenails. 
+                <p> Provide a dust-free, soft bedding, like recycled paper pellets, or, if wood shavings are preferred, use only aspen or kiln-dried pine.   Some homeowners provide their hedgehog a very shallow litter box that is filled with paper towels or soft pellet litter. It is highly recommended that you avoid using clumping kitty litter or clay.
+                    <p>For your pet's exercise, provide a wheel big enough for your hedgehog to utilize. It would preferably be one with a solid bottom and no spokes to prevent harm. There are some enormous wheels designed for other animals that would be excellent choices for your hedgehog. 
+                        <p>Due to their solitary nature, hedgehogs must be kept in separate housing.  If kept together, male hedgehogs in particular are going to fight until they die.  You could keep your hedgehog entertained by buying different pet or tiny dog toys.  Just make sure there aren't any tiny spaces where their noses, feet, or nails could get pinched.
+                            <h3> Bathing/ Health</h3>
+                            <p>Aside from needing assistance with nail clipping, hedgehogs should be able to maintain their cleanliness.  Your hedgehog doesn't need a bath unless he gets extremely filthy.
+                                <p>The majority of health issues affecting hedgehogs are related to diet, digestive tract, teeth, or obesity. Maintaining the happiness and health of your pet depends in large part on routine veterinarian appointments.
+                <h2> You're all set!</h2>
+                <p>If you have made it all the way to the end of this website, I’d say you are just about ready to be the owner of one of these cute little hedgehogs! I hope you found this website interesting and helpful, and I wish you and your hedgehog lots of luck!
+                    <p><p> <img src="https://s.abcnews.com/images/GMA/Herbee-1-ht-er-191022_hpMain_1x1_992.jpg?w=384" width=350 length=350
+    </body>
+</html>
